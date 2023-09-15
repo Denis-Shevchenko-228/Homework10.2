@@ -6,7 +6,7 @@
 cd /
 ls . > /home/denis/root_files.txt
 ```
-![Первое задание](https://github.com/Denis-Shevchenko-228/Homework10.2/tree/main/assets/t1.png)
+![Первое задание](https://github.com/Denis-Shevchenko-228/Homework10.2/blob/main/assets/t1.png?raw=true)
 ---
 ### Решение второго задания:
 ```bash
