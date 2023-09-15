@@ -6,14 +6,14 @@
 cd /
 ls . > /home/denis/root_files.txt
 ```
-![Первое задание](assets/t1.png)
+![Первое задание](https://github.com/Denis-Shevchenko-228/Homework10.2/tree/main/assets/t1.png)
 ---
 ### Решение второго задания:
 ```bash
 cd /home/denis
 ls /usr/sbin | grep 'user' | sort > user_cmd.txt
 ```
-![Второе задание](assets/t2.png)
+![Второе задание](https://github.com/Denis-Shevchenko-228/Homework10.2/tree/main/assets/t2.png)
 ---
 ### Решение третьего задания:
 ```bash
@@ -22,7 +22,7 @@ export MY_PASSWORD=BamBam
 echo $MY_USER
 echo $MY_PASSWORD
 ```
-![Третье задание](assets/t3.png)
+![Третье задание](https://github.com/Denis-Shevchenko-228/Homework10.2/tree/main/assets/t3.png)
 ---
 ### Решение четвертого задания:
 ```bash
@@ -34,6 +34,6 @@ EOF
 sudo chmod 755 file
 ./file
 ```
-![Четвертое задание 1](assets/t4.1.png)
-![Четвертое задание 2](assets/t4.2.png)
+![Четвертое задание 1](https://github.com/Denis-Shevchenko-228/Homework10.2/tree/main/assets/t4.1.png)
+![Четвертое задание 2](https://github.com/Denis-Shevchenko-228/Homework10.2/tree/main/assets/t4.2.png)
 ---
